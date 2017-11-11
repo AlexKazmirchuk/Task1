@@ -1,4 +1,6 @@
-# Completed test Task 1
+# Completed Assessment Test Task 1 for Vimmi Communications Ltd
+
+## Description
 
 Please provide the Java code for the following:
 
